@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69ddf217-c0a0-489e-a18a-66ebc2d4250f"
+      }
+    },
+    "owner": "dhimiterpoison"
   }
 }
